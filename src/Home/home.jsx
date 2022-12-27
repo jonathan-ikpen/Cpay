@@ -19,7 +19,7 @@ const underConstruction = true;
 
 const Home = () => {
   return (
-    <main className="pt-40 ss:pt-[120px] relative mx-auto w-full h-fit px-5 max-w-5xl ">
+    <main className="pt-40 ss:pt-[120px] relative mx-auto w-full h-fit px-5 max-w-7xl ">
       <Hero />
       <Steps />
       <Compare />
@@ -54,7 +54,7 @@ const Hero = () => {
         {/* {console.log(windowSize)} */}
 
         {windowSize > 547
-          ? "The one tool to Conveniently pay all school dues and fees."
+          ? "The one tool to Conveniently and Securely pay all school dues and fees."
           : "Conveniently pay all school dues and fees"}
       </h1>
       <HeroImg
