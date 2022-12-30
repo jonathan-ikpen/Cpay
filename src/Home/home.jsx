@@ -91,11 +91,13 @@ const Steps = () => {
       <div className="pt-14">
         <div className="grid grid-cols-1 sm:grid-cols-2 pb-40 gap-20">
           <div className="pb-12">
-            <span className="block w-14 p-4 border-solid rounded-[100%] bg-black-6 text-center text-black-3 font-bold h-fit text-sm">
+            <span className="block w-14 p-4 border-solid rounded-[100%] bg-black-6 text-center text-black-3 font-bold h-fit text-[18px]">
               1
             </span>
             <p className="block text-[18px] text-black-3 pt-4">
-              Pay selected or all dues and fees
+              Create a <a href="#">free account</a> or <a href="#">Login</a> to
+              select what dues or fees you want to pay or even pay all in
+              one-go.
             </p>
           </div>
           <div className="flex justify-center items-start">
@@ -111,11 +113,13 @@ const Steps = () => {
             />
           </div>
           <div className="pb-12 row-start-1 sm:row-start-1">
-            <span className="block w-14 p-4 border-solid rounded-[100%] bg-black-6 text-center text-black-3 font-bold h-fit text-sm">
+            <span className="block w-14 p-4 border-solid rounded-[100%] bg-black-6 text-center text-black-3 font-bold h-fit text-[18px]">
               2
             </span>
             <p className="block text-[18px] text-black-3 pt-4">
-              Get a signed e-receipt immediately after you pay.
+              Once you complete the payment, download your signed receipt
+              immediately with an additional copy sent directly to your email
+              which you can use for future reference.
             </p>
           </div>
         </div>
