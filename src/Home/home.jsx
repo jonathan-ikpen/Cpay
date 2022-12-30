@@ -19,7 +19,7 @@ const underConstruction = true;
 
 const Home = () => {
   return (
-    <main className="pt-40 ss:pt-[120px] relative mx-auto w-full h-fit px-5 max-w-7xl ">
+    <main className="pt-40 ss:pt-[120px] relative mx-auto w-full h-fit px-5 max-w-5xl ">
       <Hero />
       <Steps />
       <Compare />
