@@ -133,7 +133,7 @@ const Compare = () => {
     <section className="flex items-center justify-center flex-col">
       <div className="mt-40 mm:grid grid-cols-2 border-b-2 mb-20">
         <section className="mb-8 mm:mb-0">
-          <h4 className={h4styles}>Before Cpay:</h4>
+          <h4 className={h4styles}>Before Luca:</h4>
           <div className="p-6 grid gap-2 bg-[#F9F9F9] mm:border-r-2">
             <div className="flex gap-4">
               <svg
@@ -193,7 +193,7 @@ const Compare = () => {
           </div>
         </section>
         <section className="">
-          <h4 className={h4styles}>After Cpay:</h4>
+          <h4 className={h4styles}>After Luca:</h4>
           <div className="p-6 grid gap-2 bg-[#F9F9F9]">
             <div className="flex gap-4">
               <svg
